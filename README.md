@@ -26,6 +26,5 @@
 </p>
 
 ### 🌐 Connect With Me
-
-LinkedIn - https://www.linkedin.com/in/tarun-mehra-059561322/
-Github   - https://github.com/iamtarunmehra
+<p>Github   - https://github.com/iamtarunmehra</p>
+<p>LinkedIn - https://www.linkedin.com/in/tarun-mehra-059561322/</p>
