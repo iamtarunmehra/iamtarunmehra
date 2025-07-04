@@ -7,7 +7,7 @@
 - 🧠 I’m constantly improving my problem-solving skills using **Data Structures & Algorithms**
 - 📫 Reach me at: **tarunmehra80790@gmail.com**
 - ⚡ Fun fact: I enjoy debugging more than coding sometimes 
-- 
+  
 ### 🛠️ Tools & Technologies (Icons)
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
@@ -25,20 +25,7 @@
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunmehra&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=tarunmehra&theme=radical" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunmehra)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tarunmehra)
-
----
+LinkedIn - https://www.linkedin.com/in/tarun-mehra-059561322/
+Github   - https://github.com/iamtarunmehra
