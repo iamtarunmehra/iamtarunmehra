@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
