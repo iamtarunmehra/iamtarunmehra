@@ -1,20 +1,21 @@
-<h1 align="center">Hi 👋, I'm Tarun Mehra</h1>
-<h3 align="center">A Passionate Full Stack MERN Developer from India 🇮🇳</h3>
+<h1 align="center">Hi, I'm Tarun Mehra</h1>
+<h3 align="center">A Passionate MERN stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **Next.js and TypeScript**
+<h3>Tech I use</h3>
+- FRONTEND - HTML, CSS, Javascript, Bootstrap, Tailwind CSS, React.js, Next.js
+- BACKEND - Node.js, Express.js, MongoDB, Mongoose. 
+- TOOLS - VScode, Git, Github, Vercel, Redux Toolkit 
+
+<h3>About Myself</h3>
 - 💼 I have completed a full stack development course (MERN) from **WS Cube Tech**
 - 👨‍💻 I love building full-stack web apps & modern UIs
-- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript**
 - 🧠 I’m constantly improving my problem-solving skills using **Data Structures & Algorithms**
 - 📫 How to reach me: **tarunmehra80790@gmail.com**
 - ⚡ Fun fact: I enjoy debugging more than coding sometimes 😄
 
----
-
 ### 🛠️ Languages and Tools:
-
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
