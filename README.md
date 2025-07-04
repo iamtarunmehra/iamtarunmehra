@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarun Mehra</h1>
+<h1 align="center">Hi, I'm Tarun Mehra</h1>
 <h3 align="center">A Passionate MERN Stack Developer from India 🇮🇳</h3>
 
 ### 👨‍💻 About Me
@@ -6,7 +6,7 @@
 - 👨‍💻 I love building full-stack web apps & modern UIs
 - 🧠 I’m constantly improving my problem-solving skills using **Data Structures & Algorithms**
 - 📫 Reach me at: **tarunmehra80790@gmail.com**
-- ⚡ Fun fact: I enjoy debugging more than coding sometimes 😄
+- ⚡ Fun fact: I enjoy debugging more than coding sometimes 
 - 
 ### 🛠️ Tools & Technologies (Icons)
 <p>
